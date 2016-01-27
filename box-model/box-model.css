@@ -11,4 +11,8 @@ body {
   width: 800px;
   margin: 0 auto;
 }
-header { border: 2px red;}
+header { 
+    box-sizing: border-box;
+    border: 2px red;
+width: 300px
+margin 25px}
